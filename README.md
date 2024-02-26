@@ -6,7 +6,7 @@
 
 #-> Prerequisites To use this project Python Version > 3.6 is recommended. To contribute to this project, knowledge of basic python scripting, Machine Learning, and Deep Learning will help. -> Getting Started - How to use it?
 
-#Clone this repository 
+#Clone this repository using "git clone https://github.com/amit885876/Accident-Detection-System.git"
 
 #To install all the packages required to run this python program "pip install -r requirements.txt"
 
